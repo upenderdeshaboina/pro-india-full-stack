@@ -1,0 +1,22 @@
+.nav-bar{
+    padding: 10px;
+    background-color: aliceblue;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 50px;
+}
+.nav-bar button{
+    background-color: blue;
+    border: 0px solid #cbd;
+    padding: 5px;
+    width: 80px;
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.nav-bar h1{
+    font-family: roboto;
+    font-weight: bold;
+}
