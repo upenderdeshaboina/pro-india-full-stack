@@ -11,6 +11,16 @@ backend -npm run dev
 frontend - npm start
 full stack -npm install and then npm start
 
+## Backend api End points
+Backend deployment link- https://pro-india-backend.onrender.com
+
+/auth/login - for login
+/auth/register - for register
+/tasks/all- all tasks 
+/tasks/add - add task
+/tasks/update/:id - update task 
+/tasks/delete/:id - delete task
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
