@@ -1,3 +1,16 @@
+# Overview
+This is a task management application similar to todos websites like google keeps you can add , delete and update the tasks and also you can register using email and password and by the registered email 
+you can login and check personal tasks based on the user who logged in.
+
+## git cloning
+you can clone the full stack app using command-  git clone <this github url>
+
+## running cloned application
+
+backend -npm run dev
+frontend - npm start
+full stack -npm install and then npm start
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
